@@ -1,0 +1,2 @@
+matplotlib==3.7.0
+pickle5==0.0.11
